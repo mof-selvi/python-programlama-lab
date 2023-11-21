@@ -62,7 +62,7 @@ plt.scatter(dataset[:,0], dataset[:,1], c=clustering.labels_)
 ## Ödev 1
 
 * Bir başka kümeleme algoritmaları kullanarak aynı verileri kümeleyiniz ve sonuçları karşılaştırınız.
-* SKLearn kütüphanesinde bulunan kümeleme algoritmalarını incelemek için: (https://scikit-learn.org/stable/modules/clustering.html)[https://scikit-learn.org/stable/modules/clustering.html]
+* SKLearn kütüphanesinde bulunan kümeleme algoritmalarını incelemek için: [https://scikit-learn.org/stable/modules/clustering.html](https://scikit-learn.org/stable/modules/clustering.html)
 
 
 ## Ödev 2
@@ -83,7 +83,7 @@ print(iris.data.shape)
 print(iris.target)
 ```
 
-* iris.data verilerini X, iris.target verilerini Y olarak ele alıp bir sınıflandırma algoritmasında kullanınız. Bkz: (https://scikit-learn.org/stable/supervised_learning.html)[https://scikit-learn.org/stable/supervised_learning.html]
+* iris.data verilerini X, iris.target verilerini Y olarak ele alıp bir sınıflandırma algoritmasında kullanınız. Bkz: [https://scikit-learn.org/stable/supervised_learning.html](https://scikit-learn.org/stable/supervised_learning.html)
 
 * Veri setinizi [ [X1,Y1] , [X2,Y2] ] şeklinde bir bütün haline getirip "shuffle" ediniz.
 
