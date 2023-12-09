@@ -8,4 +8,4 @@
 
 ### Her iki ağ da bir gizli katmana (hidden layer) bir de çıkış katmanına (output layer) sahiptir.
 
-### Not: Kod içerisinde, fonksiyonların türevlerine ek olarak Autodiff alan bir fonksiyon da bulunmaktadır. Fakat bu fonksiyon BCE için kullanıldığında "Exploding Gradient" problemine sebep olmaktadır.
+### Not: Kod içerisinde, fonksiyonların türevlerine ek olarak Autodiff hesaplayan bir fonksiyon da bulunmaktadır. Fakat bu fonksiyon BCE için kullanıldığında "Exploding Gradient" problemine sebep olmaktadır.
