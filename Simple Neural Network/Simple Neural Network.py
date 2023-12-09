@@ -26,7 +26,7 @@ def derivative(f, x, y, axis=1, x_eps=0.00001, y_eps=0.0):
             results.append(derivative_val(f,np.array([x[i][j]]),np.array([y[i][j]])))
     return np.array([results])
 
-# kaynak: "Scikit-Learn, Keras ve Tensorflow ile Uygulamalı Makine Öğrenmesi", Aurelien Geron, s.814
+# yöntemi anlatan bir kaynak: "Scikit-Learn, Keras ve Tensorflow ile Uygulamalı Makine Öğrenmesi", Aurelien Geron, s.814
 def derivative_val(f, x, y, axis=1, x_eps=0.00001, y_eps=0.0):
     return (f(x+x_eps, y+y_eps) - f(x,y))/(x_eps + y_eps)
 
