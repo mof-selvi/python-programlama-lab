@@ -2,8 +2,6 @@
 
 # Python Programlama Uygulama Dersi için Derin Öğrenme Örnekleri
 
---
-
 * Örnekler *.ipynb formatında verilmiştir.
 * Çalıştırmadan da kodların çıktıları incelenebilir.
 * Örnekleri açabilmek için:
