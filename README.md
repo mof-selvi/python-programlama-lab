@@ -1,1 +1,1 @@
-# python-programlama-lab
+# Python Programlama (Uygulama) dersi için dökümanlar
