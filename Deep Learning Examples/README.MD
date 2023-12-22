@@ -17,7 +17,7 @@
     * tensorflow
     * skimage
   * GPU'nuz varsa daha hızlı eğitim aşaması için şunları yüklemelisiniz:
-    * tensorflow-gpu
+    * tensorflow-gpu (Tensorflow'un son sürümlerinde sadece tensorflow'un yüklenmesi yeterli olmaktadır.)
     * cudatoolkit
     * cudnn
     * GPU üretinizin resmi sitesinden sinir ağı kütüphaneleri ve sürücüler
