@@ -11,6 +11,8 @@
 * Örnekleri bilgisayarınızda çalıştırabilmek için:
   * Anaconda üzerinde yeni bir "environment" oluşturunuz.
   * Environment içerisinde şu kütüphanelerin yüklü olduğundan emin olunuz:
+    * ipykernel
+    * ipywidgets
     * matplotlib
     * numpy
     * keras
